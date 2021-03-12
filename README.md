@@ -1,4 +1,10 @@
+
+
+
 # Convolutional-Neural-Network-to-Predict-pneumonia-in-chest-x-rays
+
+![alt text](https://github.com/wajeeh853/Detecting-Pneumonia-in-Chest-X-Rays-using-Convolutional-Neural-Networks-/blob/main/Images/Screen%20Shot%202021-03-11%20at%208.59.26%20PM.png "Logo Title Text 1")
+
 
 # Important Links
 
