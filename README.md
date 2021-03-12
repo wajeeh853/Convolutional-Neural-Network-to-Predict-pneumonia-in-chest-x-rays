@@ -4,7 +4,7 @@
 
 [Link to data](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
-[Slideshow Presentation](https://github.com/wajeeh853/Convolutional-Neural-Network-to-Predict-pneumonia-in-chest-x-rays/blob/main/Phase4.pptx)
+[Slideshow Presentation](https://github.com/wajeeh853/Detecting-Pneumonia-in-Chest-X-Rays-using-Convolutional-Neural-Networks-/blob/main/Phase4PDF.pdf)
 
 [Jupyter Notebook Full Modeling Process](https://github.com/wajeeh853/Convolutional-Neural-Network-to-Predict-pneumonia-in-chest-x-rays/blob/main/Phase4_Final_Notebook-2.ipynb)
 
